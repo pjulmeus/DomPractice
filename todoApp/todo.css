@@ -1,0 +1,14 @@
+h1 {
+    font-size: 80px;
+    text-align: center;
+    color: lightslategray;
+
+}
+
+.space {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.strike {
+    text-decoration: line-through;
+}
