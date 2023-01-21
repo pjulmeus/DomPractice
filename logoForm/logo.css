@@ -1,0 +1,14 @@
+h1 {
+    font-size: 80px;
+    color: darkolivegreen;
+    text-align: center;
+}
+
+form {
+    margin: 20px 20px;
+}
+
+label {
+    font-size: 25px;
+    margin: 20px 20px;
+}
